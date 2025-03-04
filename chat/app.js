@@ -1,4 +1,4 @@
-const socket = io("https://basic-chat-back-end-production.up.railway.app/");
+const socket = io("https://chat.jdx3.org");
 // const socket = io("ws://localhost:8000");
 
 const msgInput = document.querySelector("#message");
